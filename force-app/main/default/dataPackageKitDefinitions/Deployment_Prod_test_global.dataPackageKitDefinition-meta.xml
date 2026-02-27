@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataPackageKitDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataKitSource>LOCAL</dataKitSource>
+    <dataKitType>SANDBOX</dataKitType>
+    <dataSpaceDefinitionDevName>default</dataSpaceDefinitionDevName>
+    <deploymentOrder>{&quot;isAutoSequence&quot;:true,&quot;sequence&quot;:[{&quot;devName&quot;:&quot;test_ci_global&quot;,&quot;type&quot;:&quot;DataCalcInsightTemplate&quot;,&quot;id&quot;:&quot;0kV9O0000000HvJUAU&quot;}]}</deploymentOrder>
+    <developerName>Deployment_Prod_test_global</developerName>
+    <isDeployed>false</isDeployed>
+    <isEnabled>false</isEnabled>
+    <masterLabel>Deployment Prod test global</masterLabel>
+    <versionNumber>2.0</versionNumber>
+</DataPackageKitDefinition>
